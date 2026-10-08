@@ -13,4 +13,4 @@ Escanea el código con tu celular o haz clic en la imagen:
 
 ### Archivo STEP para impresión
 Puedes descargar el modelo del QR 3D directamente aquí:
-* [Archivo STEP](https://yakifewo.github.io/QR Perkins para imprimir.stp)
+* [Archivo STEP](QR%20Perkins%20para%20imprimir.stp?raw=true)
