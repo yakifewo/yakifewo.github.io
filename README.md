@@ -10,3 +10,7 @@ Puedes ver la página directamente aquí:
 Escanea el código con tu celular o haz clic en la imagen:
 
 [![QR Perkins](qr_perkins.svg)](https://yakifewo.github.io/Perkins/ficha-perkins-1.html)
+
+### Archivo STEP para impresión
+Puedes descargar el modelo del QR 3D directamente aquí:
+* [Archivo STEP](https://yakifewo.github.io/QR Perkins para imprimir.stp)
