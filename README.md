@@ -9,4 +9,4 @@ Puedes ver la página directamente aquí:
 ### Código QR de acceso
 Escanea el código con tu celular o haz clic en la imagen:
 
-[![QR Perkins](qr_perkins.svg)](https://yakifewo.github.io/ficha-perkins-1.html)
+[![QR Perkins](qr_perkins.svg)](https://yakifewo.github.io/Perkins/ficha-perkins-1.html)
